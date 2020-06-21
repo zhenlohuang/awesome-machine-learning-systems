@@ -10,7 +10,10 @@ A curated list of awesome distributed systems books, papers, resources and shiny
 # Projects and Papers
 
 ## Label System
-// Looking forward to your contribution
+* LabelImg: is a graphical image annotation tool and label object bounding boxes in images [[Github](https://github.com/tzutalin/labelImg)]
+* CVAT: Powerful and efficient Computer Vision Annotation Tool [[Github](https://github.com/opencv/cvat)]
+* Labelme: Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation). [[Github](https://github.com/wkentaro/labelme)]
+* doccano: Open source text annotation tool for machine learning practitioner. [[Github](https://github.com/doccano/doccano)]
 
 ## Data Processing System
 * Apache Spark: is a unified analytics engine for large-scale data processing.[[Home](https://spark.apache.org/)][[Github](https://github.com/apache/spark)]
