@@ -2,6 +2,8 @@
 A curated list of awesome distributed systems books, papers, resources and shiny things.
 
 # Books
+* Machine Learning Systems: Designs that scale[[Link](https://www.manning.com/books/machine-learning-systems)]
+* 分布式机器学习：算法、理论与实践[[Link](https://book.douban.com/subject/30360968/)]
 
 # Courses
 * [AI-Sys Spring 2019](https://ucbrise.github.io/cs294-ai-sys-sp19)
