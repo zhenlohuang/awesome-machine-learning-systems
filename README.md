@@ -7,6 +7,7 @@ A curated list of awesome distributed systems books, papers, resources and shiny
 
 # Courses
 * [AI-Sys Spring 2019](https://ucbrise.github.io/cs294-ai-sys-sp19)
+* [Machine Learning Systems (Fall 2019)](https://ucbrise.github.io/cs294-ai-sys-fa19/)
 * [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/)
 
 # Projects and Papers
