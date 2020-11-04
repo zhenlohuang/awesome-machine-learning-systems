@@ -38,7 +38,7 @@ Library for Heterogeneous Distributed Systems [[Paper](https://arxiv.org/pdf/151
 // Looking forward to your contribution
 
 ## Deep Reinforcement Learning System
-Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
+Ray: A Distributed Framework for Emerging AI Applications [[Paper](https://www.usenix.org/system/files/osdi18-moritz.pdf)] [[GitHub]](https://github.com/ray-project/ray)
 
 ## Federated Learning System
 // Looking forward to your contribution
