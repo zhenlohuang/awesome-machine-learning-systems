@@ -42,3 +42,4 @@ Ray: A Distributed Framework for Emerging AI Applications [[Paper](https://www.u
 
 ## Federated Learning System
 * Towards Federated Learning at Scale: System Design [[Paper](https://arxiv.org/abs/1902.01046)]
+* FATE (Federated AI Technology Enabler)[[Github](https://github.com/FederatedAI/FATE)]
