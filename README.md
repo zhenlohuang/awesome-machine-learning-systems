@@ -41,4 +41,4 @@ Library for Heterogeneous Distributed Systems [[Paper](https://arxiv.org/pdf/151
 Ray: A Distributed Framework for Emerging AI Applications [[Paper](https://www.usenix.org/system/files/osdi18-moritz.pdf)] [[GitHub]](https://github.com/ray-project/ray)
 
 ## Federated Learning System
-// Looking forward to your contribution
+* Towards Federated Learning at Scale: System Design [[Paper](https://arxiv.org/abs/1902.01046)]
